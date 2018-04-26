@@ -1,0 +1,113 @@
+.dialogstyleperso .ui-state-information {
+
+    border: 1px solid #2c2f81;
+
+    background: #3774a0;   /* bleu - pour anciens navigateurs */
+
+    background: -moz-linear-gradient(top, #3774a0 0%, #3774a0 55%, #316e9b 57%, #316e9b 100%); /* FF3.6-15 */
+
+    background: -webkit-linear-gradient(top, #3774a0 0%,#3774a0 55%,#316e9b 57%,#316e9b 100%); /* Chrome10-25,Safari5.1-6 */
+
+    background: linear-gradient(to bottom, #3774a0 0%,#3774a0 55%,#316e9b 57%,#316e9b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3774a0', endColorstr='#316e9b',GradientType=0 ); /* IE6-9 */
+
+    color: #ffffff;
+
+    padding: 2px 6px;
+
+    border-radius: 5px;
+
+}
+
+ 
+
+.dialogstyleperso .ui-state-warning {
+
+    border: 1px solid #e36802;
+
+    background: #fd8119;   /* orangé - pour anciens navigateurs */
+
+    background: -moz-linear-gradient(top, #fd8119 0%, #fd8119 55%, #f8790f 57%, #f8790f 100%); /* FF3.6-15 */
+
+    background: -webkit-linear-gradient(top, #fd8119 0%,#fd8119 55%,#f8790f 57%,#f8790f 100%); /* Chrome10-25,Safari5.1-6 */
+
+    background: linear-gradient(to bottom, #fd8119 0%,#fd8119 55%,#f8790f 57%,#f8790f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd8119', endColorstr='#f8790f',GradientType=0 ); /* IE6-9 */
+
+    color: #ffffff;
+
+    padding: 2px 6px;
+
+    border-radius: 5px;
+
+}
+
+ 
+
+.dialogstyleperso .ui-state-error {
+
+    border: 1px solid #cd0a0a;
+
+    background: #c71515;   /* rouge framboise - pour anciens navigateurs */
+
+    background: -moz-linear-gradient(top, #c71515 0%, #c71515 55%, #b71d1d 57%, #b71d1d 100%); /* FF3.6-15 */
+
+    background: -webkit-linear-gradient(top, #c71515 0%,#c71515 55%,#b71d1d 57%,#b71d1d 100%); /* Chrome10-25,Safari5.1-6 */
+
+    background: linear-gradient(to bottom, #c71515 0%,#c71515 55%,#b71d1d 57%,#b71d1d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c71515', endColorstr='#b71d1d',GradientType=0 ); /* IE6-9 */
+
+    color: #ffffff;
+
+    padding: 2px 6px;
+
+    border-radius: 5px;
+
+}
+
+ 
+
+.dialogstyleperso .ui-state-question,
+
+.dialogstyleperso .ui-state-neutral {
+
+    border: 1px solid #d4ccb0;
+
+    background: #f6f4ed;   /* beige - pour anciens navigateurs */
+
+    background: -moz-linear-gradient(top, #f6f4ed 0%, #f6f4ed 55%, #f0ede1 57%, #f0ede1 100%); /* FF3.6-15 */
+
+    background: -webkit-linear-gradient(top, #f6f4ed 0%,#f6f4ed 55%,#f0ede1 57%,#f0ede1 100%); /* Chrome10-25,Safari5.1-6 */
+
+    background: linear-gradient(to bottom, #f6f4ed 0%,#f6f4ed 55%,#f0ede1 57%,#f0ede1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f4ed', endColorstr='#f0ede1',GradientType=0 ); /* IE6-9 */
+
+    padding: 2px 6px;
+
+    border-radius: 5px;
+
+}
+
+ 
+
+.dialogstyleperso .ui-dialog-titlebar-close {
+
+    top: 12px;
+
+}
+
+ 
+
+.dialogstyleperso .ui-dialog-titlebar-close::before {
+
+    content: "\274c";
+
+    font-weight: bold;
+
+    font-size: 0.8em;
+
+}

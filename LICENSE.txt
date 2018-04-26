@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) 2018 Dominique Durand
+
+Licence EUPL V1.2 
+
+See : https://joinup.ec.europa.eu/page/eupl-text-11-12
